@@ -2,6 +2,10 @@
 
 A new Flutter application.
 
+## Description
+A fully functioning news app build using flutter and news api.
+Also with seperate option to choose among different categories of news.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
